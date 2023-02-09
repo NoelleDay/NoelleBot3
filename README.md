@@ -9,10 +9,9 @@ We are rebuilding the bot from the ground up in Python 3.11 (from 3.7) using Twi
 
 
 Current Functionality and Goals
-- [ ] Responds to basic commands with text response
-- [ ] Does not infinite loop on herself
-- [ ] Case insensitive commands (Tentatively checked)
-- [ ] Master Branch now hosted on Heroku! Updates must be manually re-deployed currently.
+- [X] Responds to basic commands with text response
+- [X] Does not infinite loop on herself
+- [X] Case insensitive commands (Tentatively checked)
 - [ ] Ability to adjust command output without editing source code and redeploying
 - [ ] Ability to add commands without editing source code and redeploying
 - [ ] Uptime check
