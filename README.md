@@ -13,8 +13,8 @@ Current Functionality and Goals
 - [X] Does not infinite loop on herself
 - [X] Case insensitive commands (Tentatively checked)
 - [X] Bot now checks an external file for command validation, separate from .env this time! Method will change in the future in order to accomodate the next two boxes.
-- [ ] Ability to adjust command output without editing source code and redeploying
-- [ ] Ability to add commands without editing source code and redeploying
+- [X] Ability to adjust command output without editing source code and redeploying
+- [X] Ability to add commands without editing source code and redeploying
 - [ ] Uptime check
 - [ ] Subscription/Donation Alerts
 - [ ] HTML object creation and control

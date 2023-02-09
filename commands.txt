@@ -1,0 +1,7 @@
+alive = Yes, I'm alive!
+help = The commands available are Alive, Info, Discord, Social, Socials, Help, and Commands!
+info = Hello there! I am N0-L, Noelle's cheery helper-bot! I am written in Python3 and am currently still in development! Please be patient with me as my mom adds new functionality to my code!
+discord = Join us on discord and chat about stream, gaming, or anything else your nerdy heart desires! discord.gg/bmBMGKvDzb
+social = Be sure to check out Noelle's social links and more at https://noelleday.carrd.co/ to stay up to date on what's going on!
+socials = Be sure to check out Noelle's social links and more at https://noelleday.carrd.co/ to stay up to date on what's going on!
+commands = The commands available are Alive, Info, Discord, Social, Socials, Help, and Commands!
