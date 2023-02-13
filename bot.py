@@ -6,7 +6,7 @@ from twitchio import Client
 from datetime import datetime, timedelta
 from time import sleep
 
-
+#Here is where we make the bot
 #The bot gets all self-construction variables from a .env file
 #You MUST have all five of the variables in the following block in a .env file in the same directory as bot.py, except for CHANNEL which can be removed and replaced with other programmatic ways to join channels
 class Bot(commands.Bot):
