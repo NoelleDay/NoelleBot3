@@ -1,5 +1,4 @@
 import os
-import configparser
 
 from twitchio.ext import commands
 from twitchio import Client
@@ -7,15 +6,8 @@ from twitchio import Client
 from datetime import datetime, timedelta
 from time import sleep
 
-#The bot reads all commands from an external file. 
-#Current iteration uses .ini files using full header/key syntax. All entries in the commands.ini should look like the following two lines:
-#[HEADER]
-#KEY = "String to be output"   
-config = configparser.ConfigParser()
-config.read('commands.ini')
 
-
-#The bot gets all variables from a .env file
+#The bot gets all self-construction variables from a .env file
 #You MUST have all five of the variables in the following block in a .env file in the same directory as bot.py, except for CHANNEL which can be removed and replaced with other programmatic ways to join channels
 class Bot(commands.Bot):
 
